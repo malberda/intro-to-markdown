@@ -12,8 +12,3 @@
 - [ ] Finish hw
 - [x] Start hw
 - [ ] do extra credit in HW
-
-
-
-
-

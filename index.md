@@ -7,9 +7,11 @@
 ![image of a strange cat](https://octodex.github.com/images/yaktocat.png)
 
 
+``` printf("Hello world!"); ```
 
-
-
+- [ ] Finish hw
+- [x] Start hw
+- [ ] do extra credit in HW
 
 
 
